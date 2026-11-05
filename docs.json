@@ -7,14 +7,19 @@
     "light": "#3B9CD9",
     "dark": "#0B6BB3"
   },
+  "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
       {
-        "group": "Home",
+        "group": "More Topics",
         "pages": [
-          "index"
+          "office-clearwater",
+          "office-palm-harbor"
         ]
       }
     ]
+  },
+  "footer": {
+    "socials": {}
   }
 }
