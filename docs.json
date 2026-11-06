@@ -11,8 +11,24 @@
   "navigation": {
     "groups": [
       {
+        "group": "Sprinkler Systems",
+        "pages": [
+          "master-valve",
+          "pressure-regulating-valve",
+          "licensed-sprinkler-contractor",
+          "insured-sprinkler-contractor"
+        ]
+      },
+      {
+        "group": "Water Use & Rules",
+        "pages": [
+          "backflow-prevention-regulations"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
+          "water-conservation-measures",
           "office-clearwater",
           "office-palm-harbor"
         ]
