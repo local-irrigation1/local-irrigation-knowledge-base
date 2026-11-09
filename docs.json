@@ -13,10 +13,13 @@
       {
         "group": "Sprinkler Systems",
         "pages": [
+          "rain-bird-irrigation-controller",
           "master-valve",
           "pressure-regulating-valve",
+          "high-sprinkler-water-pressure",
           "licensed-sprinkler-contractor",
-          "insured-sprinkler-contractor"
+          "insured-sprinkler-contractor",
+          "drip-irrigation-components"
         ]
       },
       {
@@ -28,7 +31,9 @@
       {
         "group": "More Topics",
         "pages": [
+          "wet-spots",
           "water-conservation-measures",
+          "wiring-diagrams",
           "office-clearwater",
           "office-palm-harbor"
         ]
