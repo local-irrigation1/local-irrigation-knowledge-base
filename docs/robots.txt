@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-irrigation1.github.io/local-irrigation-knowledge-base/sitemap.xml
