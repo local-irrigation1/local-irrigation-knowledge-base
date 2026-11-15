@@ -13,13 +13,25 @@
       {
         "group": "Sprinkler Systems",
         "pages": [
+          "seasonal-sprinkler-adjustment",
+          "irrigation-controller-repair",
           "rain-bird-irrigation-controller",
           "master-valve",
+          "automatic-shut-off-valves",
           "pressure-regulating-valve",
+          "drip-line",
           "high-sprinkler-water-pressure",
           "licensed-sprinkler-contractor",
           "insured-sprinkler-contractor",
+          "sprinkler-controller-repair",
+          "irrigation-valve-repair",
           "drip-irrigation-components"
+        ]
+      },
+      {
+        "group": "Inspection & Maintenance",
+        "pages": [
+          "winterization-and-blowout"
         ]
       },
       {
@@ -37,6 +49,7 @@
           "wet-spots",
           "water-conservation-measures",
           "wiring-diagrams",
+          "irrigation-system-repair",
           "office-clearwater",
           "office-palm-harbor"
         ]
