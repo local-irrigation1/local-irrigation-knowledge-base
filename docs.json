@@ -53,6 +53,12 @@
           "office-clearwater",
           "office-palm-harbor"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
